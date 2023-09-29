@@ -37,7 +37,6 @@ Welcome to the Simple SQL Music Store Project! This beginner-friendly project al
 
 5. **Practice**: Try out the SQL queries and exercises to improve your SQL skills. Experiment with modifying the queries or creating your own.
 
-6. **Contribute (Optional)**: If you have additional exercises, improvements, or suggestions, feel free to fork the repository, make changes, and submit a pull request. This can be a collaborative learning experience for beginners.
 
 ## Database Schema
 
